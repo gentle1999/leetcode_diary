@@ -1,3 +1,4 @@
+# use hash map to change space for time
 class Solution(object):
     def twoSum(self, nums, target):
         """
